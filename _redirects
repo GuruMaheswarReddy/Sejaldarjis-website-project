@@ -1,0 +1,2 @@
+# Netlify / Cloudflare Pages: hand every path to the SPA so deep links work.
+/*    /index.html   200
